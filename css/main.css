@@ -1,0 +1,21 @@
+body,
+textarea {
+    background-color: #000000 !important;
+    color: #ffffff !important;
+}
+
+.site-link {
+    text-decoration: none !important;
+}
+
+.site-favicon {
+    width: 32px !important;
+}
+
+p{
+    text-align: justify !important;
+}
+
+th{
+    max-width: 100px !important;
+}
